@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Task/task1-dynamic-memory-allocation-Amr-said/MyArray.cpp
+MyArray.h
+E:/Task/task1-dynamic-memory-allocation-Amr-said/MyArray.h
+
+E:/Task/task1-dynamic-memory-allocation-Amr-said/MyArray.h
+MyArray.cpp
+E:/Task/task1-dynamic-memory-allocation-Amr-said/MyArray.cpp
+
+E:/Task/task1-dynamic-memory-allocation-Amr-said/main.cpp
+bits/stdc++.h
+-
+MyArray.h
+E:/Task/task1-dynamic-memory-allocation-Amr-said/MyArray.h
+

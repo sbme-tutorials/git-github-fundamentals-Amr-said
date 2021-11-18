@@ -1,0 +1,3 @@
+E:/Task/task1-dynamic-memory-allocation-Amr-said/cmake-build-debug-coverage/CMakeFiles/rebuild_cache.dir
+E:/Task/task1-dynamic-memory-allocation-Amr-said/cmake-build-debug-coverage/CMakeFiles/task1_dynamic_memory_allocation_Amr_said.dir
+E:/Task/task1-dynamic-memory-allocation-Amr-said/cmake-build-debug-coverage/CMakeFiles/edit_cache.dir

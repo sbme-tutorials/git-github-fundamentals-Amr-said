@@ -1,0 +1,35 @@
+        -:    0:Source:E:/Task/task1-dynamic-memory-allocation-Amr-said/main.cpp
+        -:    0:Graph:E:\Task\task1-dynamic-memory-allocation-Amr-said\cmake-build-debug-coverage\CMakeFiles\task1_dynamic_memory_allocation_Amr_said.dir\main.cpp.gcno
+        -:    0:Data:E:\Task\task1-dynamic-memory-allocation-Amr-said\cmake-build-debug-coverage\CMakeFiles\task1_dynamic_memory_allocation_Amr_said.dir\main.cpp.gcda
+        -:    0:Runs:1
+        -:    1:#include <bits/stdc++.h>
+        -:    2:#include "MyArray.h"
+        -:    3:using namespace std;
+        -:    4:
+function main called 1 returned 100% blocks executed 100%
+        1:    5:int main(int argc, char** argv){
+        -:    6:    // driving code
+        -:    7:    
+        -:    8:    // int arr[] = {5, 3, 2};
+        -:    9:    // MyArray<int>* my_arr = new MyArray<int>(arr, 3);
+        -:   10:    // my_arr->push(5);
+        -:   11:    // my_arr->push(5);
+        -:   12:    // my_arr->push(5);
+        -:   13:    // my_arr->push(5);
+        -:   14:    // my_arr->push(5);
+        -:   15:    // my_arr->push(5);
+        -:   16:    // my_arr->push(5);
+        -:   17:    // cout << my_arr->get_capacity() << endl;
+        -:   18:    // my_arr->print();
+        -:   19:
+        -:   20:
+        -:   21:    // MyArray<int>* my_arr = new MyArray<int>();
+        -:   22:    // my_arr->push(5);
+        -:   23:    // my_arr->insert(0, 10);
+        -:   24:    // cout << my_arr->get(0) << " " << my_arr->get(1) << endl;
+        -:   25:
+        -:   26:    // int arr[] = {5, 3, 2};
+        -:   27:    // MyArray<int>* my_arr = new MyArray<int>(arr, 3);
+        -:   28:    // cout << my_arr->remove(1) << " " << my_arr->pop() << " " << my_arr->remove(0) << endl;
+        1:   29:}
+        1:   29-block  0
